@@ -1,7 +1,10 @@
+<meta name="description" content="govind sharma magento magento2 developer ecommerce expert"/>
+<meta name="title" content="govind sharma magento developer">
+<meta name="keywords" content="govind,sharma,magento,magento2,developer,ecommerce expert"/>
 <h1 align="center">Hi 👋, I'm Govind Sharma</h1>
 <h3 align="center">A passionate Magento2 developer from India</h3>
 <h2 align="left">About Me</h2>
-<p align="left">I'm a <a href ="https://www.credly.com/badges/5f5f69ff-bbb9-4bbb-8ad9-790a5e4bf745">Magento2 Certified Expert Developer </a> and I'm passionate about solving business problems and learning new technologies.Currently I am learning new technologies reated to Devops platforn like AWS, Bitbucket, Gitlab etc. I am CI/CD expert as well , configured differnet pipeline for deploying Magento2 Apllication on Cloud Based Servers.</p>
+<p align="left">I'm a <a href ="https://www.credly.com/badges/5f5f69ff-bbb9-4bbb-8ad9-790a5e4bf745">Magento2 Certified Expert Developer </a> and I'm passionate about solving business problems and learning new technologies.Currently I am learning new technologies related to Devops platforn like AWS, Bitbucket, Gitlab etc. I am CI/CD expert as well , configured differnet pipeline for deploying Magento2 Apllication on Cloud Based Servers.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindasharma&label=Profile%20views&color=0e75b6&style=flat" alt="govindasharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindasharma" alt="govindasharma" /></a> </p>
