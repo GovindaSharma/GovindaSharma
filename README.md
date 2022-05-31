@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GovindaSharma](https://github.com/GovindaSharma)
 
-- 📫 How to reach me **govindpokhrelsharma@cedcommerce.com**
+- 📫 How to reach me **imgovindasharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
